@@ -23,6 +23,6 @@ div.gist-meta a {
   color: #bbb !important;
 }
 
-div.gist:hover div.gist-meta {
+div.gist-file:hover div.gist-meta {
   visibility: visible !important;
 }
