@@ -1,7 +1,7 @@
 div.gist-meta {
   visibility: hidden !important;
 
-  background-color: rgba(0,0,0,.7) !important;
+  background-color: rgba(0,0,0,.8) !important;
   border-width: 0 !important;
   border-radius: 5px !important;
   -moz-border-radius: 5px !important;
