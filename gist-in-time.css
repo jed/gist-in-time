@@ -1,0 +1,28 @@
+div.gist-meta {
+  visibility: hidden !important;
+
+  background-color: rgba(0,0,0,.7) !important;
+  border-width: 0 !important;
+  border-radius: 5px !important;
+  -moz-border-radius: 5px !important;
+  -webkit-border-radius: 5px !important;
+
+  color: #fff !important;
+  
+  height: 1.5em !important;
+  width: 40em !important;
+  margin: -3em .5em 0 0 !important;
+  float: right !important;
+}
+
+div.gist-data {
+  border-bottom: 0 !important;
+}
+
+div.gist-meta a {
+  color: #bbb !important;
+}
+
+div.gist:hover div.gist-meta {
+  visibility: visible !important;
+}
