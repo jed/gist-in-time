@@ -13,6 +13,9 @@ div.gist-meta {
   width: 40em !important;
   margin: -3em .5em 0 0 !important;
   float: right !important;
+  
+  position: relative !important;
+  z-index: 1000 !important;
 }
 
 div.gist-data {
